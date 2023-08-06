@@ -1,0 +1,5 @@
+FlightNumber,Source,Destination,DepartureTime,SeatsAvailable
+AA101,New York,London,2023-07-20 14:30,100
+BA202,Paris,Los Angeles,2023-07-21 10:45,50
+UA303,London,Sydney,2023-07-22 18:15,200
+

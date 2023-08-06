@@ -1,0 +1,6 @@
+FlightNumber,Origin,Destination,Date,Price
+FL001,Toronto,Montreal,17 August 2023,150.00
+FL002,New York,Los Angeles,20 August 2023,250.00
+FL003,Chicago,Miami,21 August 2023,180.50
+FL004,San Francisco,Seattle,19 August 2023,200.75
+FL005,Denver,Dallas,18 August 2023,175.25
